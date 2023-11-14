@@ -1,8 +1,9 @@
 # PicoMindflex
 A port of https://github.com/kitschpatrol/Brain for the Raspberry pico
 
-Hardware instructions can be found [here]([https://link-url-here.org](https://rootsaid.com/getting-raw-data-mindflex-using-arduino/))
+Hardware instructions can be found https://link-url-here.org](https://rootsaid.com/getting-raw-data-mindflex-using-arduino/
 
+Tested on mindflex headset
 
 usage example sending
 
