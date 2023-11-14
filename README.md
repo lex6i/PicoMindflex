@@ -1,11 +1,12 @@
 # PicoMindflex
 A port of https://github.com/kitschpatrol/Brain for the Raspberry pico
 
+A library to read data from Mindflex eeg headsets using the pico.
+
 Hardware instructions can be found https://link-url-here.org](https://rootsaid.com/getting-raw-data-mindflex-using-arduino/
 
-Tested on mindflex headset
 
-usage example sending
+usage example:
 
     from mindflex import MindFlex
     
