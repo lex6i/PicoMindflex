@@ -20,3 +20,4 @@ usage example:
 
 ## todo
 * Increase stability, it tends to crash
+* Add a better constructor to allow modifying settings such as input pins (currently on GP01)
